@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Página en GitHub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bienvenido a mi repositorio HTML</h1>
+  </header>
+
+  <main>
+    <p>Este es un ejemplo de página estática que puedes publicar en GitHub Pages.</p>
+    <p>Modifica este contenido para adaptarlo a tu proyecto Salvanguardista o CYBER.GEO.</p>
+  </main>
+
+  <footer>
+    <p>© 2026 Camilo - Salvanguardista</p>
+  </footer>
+</body>
+</html>
